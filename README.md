@@ -135,5 +135,18 @@ Semester Project – Actively Improving
 
 ---
 
+# Project Preview
+
+## Landing Page
+
+![Landing Page](screenshots/landing-page.png)
+
+## Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+## Team
+
+![Team](screenshots/team.png)
 
 

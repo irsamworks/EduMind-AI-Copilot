@@ -106,9 +106,9 @@ User notes, uploads, and academic content remain under user control.
 
 ### Co-Creators
 
-* Irsam 
-* Anam
-* Aroosa
+* Irsam Fatima
+* Anam Adil
+* Aroosa Sarfraz
 
 ---
 
